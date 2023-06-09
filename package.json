@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "eslint": "^8.42.0",
+    "vercel": "^30.2.1"
+  },
+  "name": "app_swaplivros",
+  "description": "Aplicatvo flutter feito para a matéria de programaçao mobile I do curso de análise e desenvolvimento de sistemas.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test",
+    "eslint": "eslint"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.8.8"
+  }
+}

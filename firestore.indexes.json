@@ -1,0 +1,33 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "BookAvailable",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "idBook",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "createdAt",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "BookAvailable",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "idBook",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "idUser",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ],
+  "fieldOverrides": []
+}

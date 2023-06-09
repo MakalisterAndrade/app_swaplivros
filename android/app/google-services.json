@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1059538703579",
+    "project_id": "books-friend-e1e38",
+    "storage_bucket": "books-friend-e1e38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059538703579:android:5bb0240aadce3a0b00e8fe",
+        "android_client_info": {
+          "package_name": "com.example.books"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059538703579-jp44o2t1rae19lg1oo0o6o4301148eku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsP74k-G0sizRdd_ZzRNGF3oAKJ6FzMY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059538703579-17hs0u4jhkc9nl51elddqno1l5hkt985.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1059538703579-vvtil9h8ubd2ptaq3m9tm2uek99mnl10.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.books"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059538703579:android:ba7bca7ddc991ea500e8fe",
+        "android_client_info": {
+          "package_name": "com.example.books_friend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059538703579-jp44o2t1rae19lg1oo0o6o4301148eku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsP74k-G0sizRdd_ZzRNGF3oAKJ6FzMY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059538703579-17hs0u4jhkc9nl51elddqno1l5hkt985.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1059538703579-vvtil9h8ubd2ptaq3m9tm2uek99mnl10.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.books"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
